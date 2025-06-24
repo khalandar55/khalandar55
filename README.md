@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I’m **Khalandar Shariff**</h1>
+<h1 align="center">Hi 👋, I’m Khalandar Shariff</h1>
 <p align="center">
   🚀 MSc Cloud Computing • Software Engineer • Researcher in Sustainable & Edge‑Enabled Systems
 </p>
@@ -40,7 +40,7 @@
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalandarshariff/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=github)](https://shariffinfra.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=portfolio)](https://shariffinfra.com)  
 
 ---
 
