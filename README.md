@@ -1,32 +1,47 @@
-<h1 align="center">Hi 👋, I'm Khalander Shariff</h1>
-<h3 align="center">🚀 Software Engineer | Cloud & Blockchain Enthusiast</h3>
-
-- 🌱 I’m currently working on **Multi-Cloud Disaster Recovery & Blockchain Projects**
-- 🧠 Learning more about **Golang, Kubernetes, and Infrastructure as Code**
-- 💬 Ask me about **AWS, Angular, Java, and Solidity**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile)
+<h1 align="center">Hi 👋, I’m **Khalandar Shariff**</h1>
+<p align="center">
+  🚀 MSc Cloud Computing • Software Engineer • Researcher in Sustainable & Edge‑Enabled Systems
+</p>
 
 ---
 
-### 🔨 What I do
-- 🔧 Build full-stack cloud-native apps (React, Flask, Node, Angular)
-- ☁️ Design serverless systems with AWS Lambda, DynamoDB, and Terraform
-- 🔐 Write smart contracts and blockchain dApps using Solidity & DAML
-- 🔄 Automate CI/CD with GitHub Actions, Jenkins, Docker, and Ansible
+## 🧠 About Me
+- 🎓 **MSc in Cloud Computing**, with keen interest in full-stack, cloud-native, and DevOps-driven development.
+- 🎤 Presented at IEEE/ACM UCC 2024:  
+  **“Sustainable Cloud Resource Deployment: Integrating Real-Time Energy Data and Edge Continuum…”** :contentReference[oaicite:1]{index=1}
+- ☁️ Passionate about **scalable, sustainable, multi-cloud architectures**, edge/fog orchestration, and green cloud solutions.
 
 ---
 
-### 🧰 Languages & Tools
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,ts,js,react,nodejs,python,java,solidity,github,terraform" />
+## 🛠️ What I Do
+- Build cloud-native & serverless applications using **AWS, Azure, Docker, Kubernetes, Terraform**
+- Develop full-stack solutions with **React, Angular, Node.js, Java**
+- Design blockchain and decentralized apps (smart contracts, tokenization)
+- Automate CI/CD pipelines and infrastructure‑as‑code workflows
 
 ---
 
-### 📊 My GitHub Stats
-![Khalandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalandar55&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalandar55&layout=compact&theme=tokyonight)](https://github.com/khalandar55)
+## 🧰 Languages & Tools  
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,ts,js,nodejs,react,angular,java,python,solidity,terraform,github" />
 
 ---
 
-### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Website](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=github)](https://shariffinfra.com)
+## 📊 GitHub Stats
+![Khalandar’s GitHub stats](https://github-readme-stats.vercel.app/api?username=khalandar55&show_icons=true&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalandar55&layout=compact&theme=tokyonight)](https://github.com/khalandar55)
+
+---
+
+## 🌱 Currently Learning
+- Kubernetes Operators & Advanced GitHub Actions
+- Edge/Fog Computing orchestration patterns
+
+---
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalandarshariff/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=github)](https://shariffinfra.com)  
+
+---
+
+*“Driving innovation at the crossroads of cloud, edge, and sustainability”*
